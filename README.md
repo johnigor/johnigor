@@ -1,8 +1,5 @@
 ### Hi! I'm John Hansen
 
-- 🔭 I’m currently working on FronGames
-- 🌱 I’m currently learning OOP with C#
-
 <div align="center">
   <a href="https://github.com/johnigor">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=johnigor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
